@@ -1,0 +1,1 @@
+print("Your name",input("Enter ur name"),"And your age: ", input("Enter ur age: "))
